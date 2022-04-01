@@ -17,6 +17,6 @@ So, with so powerful tokenssL is, why you keep selling traditional certificate i
 
 If you have interested with tokenssL's cooperation, please
 
-- Hosting provider contact [idc-parnters@tokenssL.comm](mailto:idc-parnters@tokenssL.com)
-- Certificate authority contact [ca-partners@tokenssL.com](mailto:ca-partners@tokenssL.com)
-- Retailer & Reseller contact [reseller-partners@tokenssL.com](mailto:reseller-partners@tokenssL.com)
+- Hosting provider contact [idc-parnters@tokenssL.comm](mailto:idc-parnters@tokenssL.com).
+- Certificate authority contact [ca-partners@tokenssL.com](mailto:ca-partners@tokenssL.com), we only co-operate w/ CA who been included by Chromiumn + Mozilla + Apple + Windows.
+- Retailer & Reseller contact [reseller-partners@tokenssL.com](mailto:reseller-partners@tokenssL.com).
