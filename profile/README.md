@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/tokenssl/design/main/logo/logo.svg" width="250"></a></p>
+<p align="center"><a href="https://www.tokenssL.com" target="_blank"><img src="https://raw.githubusercontent.com/tokenssl/design/main/logo/logo.svg" width="250"></a></p>
 
 ## About tokenssL
 
@@ -27,7 +27,7 @@ If you have interested with tokenssL's cooperation, please
 
 下為正體中文版
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/tokenssl/design/main/logo/logo.svg" width="250"></a></p>
+<p align="center"><a href="https://www.tokenssL.com" target="_blank"><img src="https://raw.githubusercontent.com/tokenssl/design/main/logo/logo.svg" width="250"></a></p>
 
 ## 關於 tokenssL
 
